@@ -1,6 +1,6 @@
 baseURL = 'https://induvarshini.github.io/'
 languageCode = 'en-us'
-title = 'Hello! I am Indu'
+title = 'Personal Home of Indu'
 theme = "paper"
 
 disqusShortname = 'Indu'   # use disqus comments
@@ -10,25 +10,11 @@ disqusShortname = 'Indu'   # use disqus comments
   color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
+  linkedin = 'induvarshini'             # linkedin.com/in/YOUR_LINKEDIN_ID
   github = 'InduVarshini'                 # github.com/YOUR_GITHUB_ID
   instagram = 'justonelifeitis'           # instagram.com/YOUR_INSTAGRAM_ID
-  linkedin = 'induvarshini'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  #mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
-  #threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
-  rss = true                                # show rss icon
+  
 
   # home page profile
   avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
   name = 'Indu Varshini'
-  bio = 'Do you want to expand your product assortment and use AI to solve it? Worried about catering to all your customers without ending up with a website full of out-of-stock products? Look no further! I've developed a solution for a major US fashion retailer that predicts the optimal quantity of new products to stock, slashing overstocking costs by 60% while reducing the workload of purchasing agents. Curious about how I did it? Let's grab a coffee and dive into the details. Shoot me an email!'
-
-
-  # misc
-  disableHLJS = true                        # disable highlight.js
-  disablePostNavigation = true              # disable post navigation
-  monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
-  math = true                               # enable KaTeX math typesetting globally
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
-
-  copyright = '© 2024 Indu Varshini Jayapal - All Rights Reserved'
