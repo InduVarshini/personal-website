@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'Personal Home of Indu'
 theme = "paper"
 
-disqusShortname = 'Indu'   # use disqus comments
-
 [params]
   # color style
   color = 'linen'                           # linen, wheat, gray, light
@@ -16,5 +14,5 @@ disqusShortname = 'Indu'   # use disqus comments
   
 
   # home page profile
-  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+  avatar = '/static/me_spring.jpg'                 # gravatar email or image url
   name = 'Indu Varshini'
